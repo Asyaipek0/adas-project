@@ -1,0 +1,17 @@
+# Sanal ortam
+venv/
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# YOLO model dosyası (büyük dosya, indirilebilir)
+yolov8n.pt
+
+# VSCode ayarları
+.vscode/
+
+# Windows sistem dosyaları
+Thumbs.db
+Desktop.ini
